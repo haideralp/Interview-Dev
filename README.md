@@ -32,7 +32,7 @@ What is proudest moment in your life ?
 - Due to everchanging needs to clients,  a highly efficient process is required to meet the changes in minimal time. For this DevOps comes into play as it provides the ability for quicker release of updates to the client and therefore the consumer market within minutes. A good example, I think of is when Apple launches new features or updates on their IOS system. 
 
  
-  ## 6. Do you prefer to work alone or part of a team ? 
+## 6. Do you prefer to work alone or part of a team ? 
  
 - Personally, collaboration and working as part of a team is at the heart to my work ethic. However, there are times I have to work independently to be creative and think outside of the box. A good example, was when I had to train 230 advisors plus in 4 weeks on the product launch of Sky Glass (streaming Sky on cloud and no dish) in October 2021.  
 -Due to time strain worked independently on hours business can allocate for training, Researched shift of individuals to see availability. Lack of training staff so decided to build a team of champions within the 16 teams. Pitched idea senior management on the idea to get approval. Once I began, organized daily stand-ups, blockers discussed. 
