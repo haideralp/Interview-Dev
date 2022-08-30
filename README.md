@@ -60,7 +60,6 @@ In simple terms, test cases for each functionality are created and tested first 
 5. With TDD you will get a reliable solution --> After refactoring, you and developer has transparency for the reliability of the code. You can be sure the solution works.
 Save project costs in the long run --> Decreases costs on projects overall due to multiple benefits as dicussed above. (Code quality, Readable, Scalability)
 
-
 ##  What is Development (Dev) Environment (env) ?
 A development environment is a practically workspace for developers to make changes without breaking anything in a live environment. It is the go to place for developers as they deploy changes.
 ### Benefits of Development environment:
