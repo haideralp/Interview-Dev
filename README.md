@@ -60,6 +60,7 @@ In simple terms, test cases for each functionality are created and tested first 
 5. With TDD you will get a reliable solution --> After refactoring, you and developer has transparency for the reliability of the code. You can be sure the solution works.
 Save project costs in the long run --> Decreases costs on projects overall due to multiple benefits as dicussed above. (Code quality, Readable, Scalability)
 
+
 ##  What is Development (Dev) Environment (env) ?
 A development environment is a practically workspace for developers to make changes without breaking anything in a live environment. It is the go to place for developers as they deploy changes.
 ### Benefits of Development environment:
@@ -67,7 +68,9 @@ A development environment is a practically workspace for developers to make chan
 2. Improved productivity due to automation of tasks
 3. More efficient and streamlines process for developers saving time as they can stay update 4. with latest practices and threats.
 4. Provides a creater sense of transpareny on the project so keeping workflow easy to use.
-##  What is  Virtualisation ?
+##  What is  Virtualisation ? 
+
 Virtualisation means the practice use to generate a simulated environment as opposed to physical one. It often includes computer-generated versions of hardware, operating systems, storage devices and more. You can then parition single computer or server into several virtual machines. Each virtual machine can then interact independently and run different operating systems or applications while sharing the resources of a single host machine.
+
 By creating multiple resources from a single computer or server, virtualisation improves scalability and workloads while resulting in the use of fewer overall servers, less energy consumption, and less infrastructure costs and maintenance.
-### Layers of Virtualisation ? 
+### What are the layers of Virtualisation ? 
