@@ -31,3 +31,30 @@ By creating multiple resources from a single computer or server, virtualisation 
       
       - Load balancer - added specific rules to listen to certain ports / Security group utilised. 
       - Databases - DBs instances were made private subnet for EC2 instacnes so were not internet facing
+
+
+3 layer of security
+
+IAM rolde -access and identity user (permission and secret keys) - least prieveldged access on need to know basis. 
+NACL (network access control list)
+subnet level 
+VPC - is an isolated space.
+Create groups (adds permision to that group attached accounts)
+
+what is nacl and security group ?
+
+nacl on subnet level
+secruity works on instance level. 
+
+
+Accident Damage Prevention:
+
+s3 - enable versioning to prevent accidental damage
+ec2 - setting on enable non deletion option so anyone tries will need to disable this.
+
+mfa - on an account able -send code 
+
+tech
+what is is.
+benefits
+and have a example ready.
