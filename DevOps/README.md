@@ -7,7 +7,7 @@
  
  - Hypercompetitive application market – increase application delivery without compromise on quality. Provides increase productivity to deliver results quicker due to increased collaboration. Generates more creativity and promotes high-quality results.  
 
-5. What is Agile and SCRUM and how have you used it ? 
+3. What is Agile and SCRUM and how have you used it ? 
 
  
 - Agile –is a form of practice / philosophy, and in more business terms it is a project management methodology that is built on 12 key principles. Ever-changing needs – smaller teams more collaborative.  
@@ -19,7 +19,7 @@
 - Scrum – is form of process of this methodology. Identify work, who will work, how will it get done and when will it get completed. Using sprints to break up project into parts.  
  Example – Sky Mobile (Attend Daily Stand up Meetings, part of testing team provider shorter feedback)   
  
-6. How does DevOps fit into Agile ?   
+4. How does DevOps fit into Agile ?   
 
 - Due to everchanging needs to clients,  a highly efficient process is required to meet the changes in minimal time. For this DevOps comes into play as it provides the ability for quicker release of updates to the client and therefore the consumer market within minutes. A good example, I think of is when Apple launches new features or updates on their IOS system. 
 
